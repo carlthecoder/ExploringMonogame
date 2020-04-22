@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseGun", "BaseGun\BaseGun.csproj", "{1193A791-7A3A-4DBD-8588-90FA55CF5E80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseGun2", "BaseGun2\BaseGun2.csproj", "{122418B8-04A1-4E71-80B8-917CD9F3E517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1193A791-7A3A-4DBD-8588-90FA55CF5E80}.Debug|x86.ActiveCfg = Debug|x86
+		{1193A791-7A3A-4DBD-8588-90FA55CF5E80}.Debug|x86.Build.0 = Debug|x86
+		{1193A791-7A3A-4DBD-8588-90FA55CF5E80}.Release|x86.ActiveCfg = Release|x86
+		{1193A791-7A3A-4DBD-8588-90FA55CF5E80}.Release|x86.Build.0 = Release|x86
+		{122418B8-04A1-4E71-80B8-917CD9F3E517}.Debug|x86.ActiveCfg = Debug|x86
+		{122418B8-04A1-4E71-80B8-917CD9F3E517}.Debug|x86.Build.0 = Debug|x86
+		{122418B8-04A1-4E71-80B8-917CD9F3E517}.Release|x86.ActiveCfg = Release|x86
+		{122418B8-04A1-4E71-80B8-917CD9F3E517}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6814DF94-2E0C-41D5-B33D-8A45B1972F26}
+	EndGlobalSection
+EndGlobal
